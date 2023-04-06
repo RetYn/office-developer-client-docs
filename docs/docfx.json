@@ -75,7 +75,6 @@
         "word/**.md": "word",
         "infopath/**.md": "infopath",
         "onenote/**.md": "onenote",
-        "outlook/**.md": "outlook",
         "visio/**.md": "visio"
       },
       "feedback_system": {
